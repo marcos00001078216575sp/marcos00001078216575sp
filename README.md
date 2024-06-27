@@ -1,6 +1,6 @@
 ## Vamos lá, conheça meu perfil 
 
-Me chamo Marcos
+Me chamo **Marcos**
 
 - Estou estudando na _E.E. Professora Ayr Picanço Barbosa de Almeida_
 - Estou estudando linguagem de programação na [Alura](https://www.alura.com.br)
