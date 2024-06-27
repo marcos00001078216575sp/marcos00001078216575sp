@@ -3,7 +3,7 @@
 Me chamo Marcos
 
 - Estou estudando na _E.E. Professora Ayr Picanço Barbosa de Almeida_
-- Estou estudando linguagem de programação na [Alura](https;//www.alura.com.br)
+- Estou estudando linguagem de programação na [Alura](https://www.alura.com.br)
 - Utilizo esta área para organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
